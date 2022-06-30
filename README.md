@@ -18,4 +18,6 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Sync: Will download missing files only. (If a file was modified but use the same name as the old one, deleting this particular file is necessary before using the "Sync" option).  
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
+# To download the app:
+You simply need to download the TinyScanner.zip file, and unzip it on your computer.
   
