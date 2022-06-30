@@ -8,7 +8,7 @@ https://www.amazon.com/Tiny-Scanner-Pro-scanner-document/dp/B00FR88VTC
   
 The app works with the Tiny Scanner v4.1.1 (Tiny Scanner+ v4.1.1) using Wi-Fi Drive option enabled. It utilize the 'wget' command to download the content from the TinyScanner application on iPad iOS 9.3.5.  
   
-The content is fetched from the provided server address of the app, and dumped into the "TinyScanner.app/Contents/Dump" directory.  
+The content is fetched from the provided server address, and dumped into the "TinyScanner.app/Contents/Dump" directory on your Mac.  
   
 By opening the app, the Finder open the directory "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port available under 'Wi-Fi Drive' in the settings inside the iPad application.  
   
