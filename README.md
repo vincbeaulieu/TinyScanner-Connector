@@ -19,5 +19,5 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
 # To download the app:
-You simply need to download the TinyScanner.zip file, and unzip it on your computer.
+Downloading the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". All step to reproduce this app are provided in the Automator folder.
   
