@@ -19,5 +19,5 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
 # To download the app:
-Downloading the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". A way around is to open the unzipped app using Automator and duplicate the workflow.
-  
+Downloading the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". A way around is to open the unzipped app using Automator and save. After, you can right-click on the app and click open. Make sure the iPad app is open.
+
