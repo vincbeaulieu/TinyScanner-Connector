@@ -18,4 +18,6 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Sync: Will download missing files only. (If a file was modified but use the same name as the old one, deleting this particular file is necessary before using the "Sync" option).  
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
-  
+# To download the app:
+Downloading the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". A way around is to open the unzipped app using Automator and save. After, you can right-click on the app and click open. Make sure the iPad app is open.
+
