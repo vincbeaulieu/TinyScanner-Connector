@@ -23,7 +23,7 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
   
-If you have a lot of files that need to be transfered, it may take some times. As long as you see this rotating gear in the menu bar, the transfer is under progression.
+If you have a lot of files that need to be transferred, it may take some times. As long as you see this rotating gear in the menu bar, the transfer is progressing.  
 ![Menu-bar-Progression](.media/Menu-bar-Progression.gif)
   
   
