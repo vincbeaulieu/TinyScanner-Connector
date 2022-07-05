@@ -3,12 +3,16 @@
 
 Application designed to dump previously scanned pdf from an old iPad iOS 9.3.5 having the Tiny Scanner+ v4.1.1 application. Since I've previously paid for that application in the pass, before they've decided to release the same application but with a monthly payment, I've decided to recycle my old iPad to scan PDF during the Covid pandemic. I've been doing it using a bash script, but I've decided to give it a refresh and make and actual MacOS application.  
   
+# Technicality  
+
 The app was design using Automator, some Applescript, and some Shell script.  
   
 The icon was taken from the official TinyScanner application released in 2013 by Li Yunzhang.  
 https://www.amazon.com/Tiny-Scanner-Pro-scanner-document/dp/B00FR88VTC  
   
 The app works with the Tiny Scanner v4.1.1 (Tiny Scanner+ v4.1.1) using Wi-Fi Drive option enabled. It utilize the 'wget' command to download the content from the TinyScanner application on iPad iOS 9.3.5, and it dumps it into the "TinyScanner.app/Contents/Dump" directory on your Mac.  
+  
+# Small Guide
   
 By opening the app, a Finder message box will open asking for the Server Address. This address can be found inside the iPad Tiny Scanner application, under 'Wi-Fi Drive' in the settings.  
 <p align="center">  
