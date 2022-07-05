@@ -21,7 +21,7 @@ After providing the Server Address, the Finder will open the directory  "TinySca
 </p>  
   
 - **Do Nothing:** As the name implies, does nothing.  
-- **Sync:** Will download missing files only. *(If a file was modified but use the same name as the old one, deleting this particular file is necessary before using the "Sync" option).*  
+- **Sync:** Will download missing files only. *(If a file was modified but use the same name as the old one, deleting this particular file from your Mac directory is necessary before using the "Sync" option).*  
 - **Download:** Will overwrite the whole directory with the content of the server (Redownload all files).  
   
   
