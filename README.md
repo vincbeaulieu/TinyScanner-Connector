@@ -12,12 +12,12 @@ The content is fetched from the provided server address, and dumped into the "Ti
   
 By opening the app, a Finder message box will open asking for the Server Address. This address can be found inside the iPad Tiny Scanner application, under 'Wi-Fi Drive' in the settings.  
 <p align="center">  
-  <img src=".media/Server-Address-Prompt.png" alt="drawing" width="500"/>  
+  <img src=".media/Server-Address-Prompt.png" alt="drawing" width="450"/>  
 </p>  
   
 After providing the Server Address, the Finder will open the directory  "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port number from the server address previously provided. Then the user is prompt to either "Do Nothing", "Sync", or "Download".  
 <p align="center">  
-  <img src=".media/Action-Prompt.png" alt="drawing" width="600"/>  
+  <img src=".media/Action-Prompt.png" alt="drawing" width="700"/>  
 </p>  
   
 - Do Nothing: As the name implies, does nothing.  
