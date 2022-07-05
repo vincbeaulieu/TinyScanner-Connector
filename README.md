@@ -10,8 +10,8 @@ The app works with the Tiny Scanner v4.1.1 (Tiny Scanner+ v4.1.1) using Wi-Fi Dr
   
 The content is fetched from the provided server address, and dumped into the "TinyScanner.app/Contents/Dump" directory on your Mac.  
   
-By opening the app, a Finder message box will open asking for the Server Address. This address can be found inside the iPad Tiny Scanner application, under 'Wi-Fi Drive' in the settings.
-<img src=".media/Server-Address-Prompt.png" alt="drawing" width="200"/>
+By opening the app, a Finder message box will open asking for the Server Address. This address can be found inside the iPad Tiny Scanner application, under 'Wi-Fi Drive' in the settings.  
+<img src=".media/Server-Address-Prompt.png" alt="drawing" width="600"/>  
 
 After providing the Server Address, the Finder will open the directory  "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port number from the server address previously provided. Then the user is prompt to either "Do Nothing", "Sync", or "Download".  
 ![Action-Prompt](.media/Action-Prompt.png)
