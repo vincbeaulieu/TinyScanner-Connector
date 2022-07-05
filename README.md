@@ -13,9 +13,7 @@ The content is fetched from the provided server address, and dumped into the "Ti
 By opening the app, a Finder message box will open asking for the Server Address. This address can be found inside the iPad Tiny Scanner application, under 'Wi-Fi Drive' in the settings.
 ![Server-Address-Prompt](.media/Server-Address-Prompt.png)
 
-After providing the Server Address, the Finder will open the directory  "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port number from the server address previously provided. 
-  
-Then the user is prompt to either "Do Nothing", "Sync", or "Download".  
+After providing the Server Address, the Finder will open the directory  "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port number from the server address previously provided. Then the user is prompt to either "Do Nothing", "Sync", or "Download".  
 ![Action-Prompt](.media/Action-Prompt.png)
   
 - Do Nothing: As the name implies, does nothing.  
@@ -23,7 +21,7 @@ Then the user is prompt to either "Do Nothing", "Sync", or "Download".
 - Download: Will overwrite the whole directory with the content of the server (Redownload all files).  
   
   
-If you have a lot of files that need to be transferred, it may take some times. As long as you see this rotating gear in the menu bar, the transfer is progressing.  
+If you have a lot of files that need to be transferred, it may take some times. As long as you see the following rotating gear in the menu bar, then files are being transfered from your iPad to your computer.  
 ![Menu-bar-Progression](.media/Menu-bar-Progression.gif)
   
   
