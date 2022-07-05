@@ -16,7 +16,9 @@ By opening the app, a Finder message box will open asking for the Server Address
 </p>  
   
 After providing the Server Address, the Finder will open the directory  "TinyScanner.app/Contents/Dump/$ServerSocket", where the $ServerSocket is the IP Address and Port number from the server address previously provided. Then the user is prompt to either "Do Nothing", "Sync", or "Download".  
-![Action-Prompt](.media/Action-Prompt.png)
+<p align="center">  
+  <img src=".media/Action-Prompt.png" alt="drawing" width="600"/>  
+</p>  
   
 - Do Nothing: As the name implies, does nothing.  
 - Sync: Will download missing files only. (If a file was modified but use the same name as the old one, deleting this particular file is necessary before using the "Sync" option).  
