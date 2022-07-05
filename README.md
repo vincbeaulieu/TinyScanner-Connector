@@ -24,7 +24,7 @@ After providing the Server Address, the Finder will open the directory  "TinySca
   <img src=".media/Action-Prompt.png" alt="drawing" width="700"/>  
 </p>  
   
-- **Do Nothing:** As the name implies, does nothing.  
+- **Do Nothing:** Will dismiss the message, but let the directory open. Select this option if you only want to access the directory on your Mac.
 - **Sync:** Will download missing files only. *(If a file was modified but use the same name as the old one, deleting this particular file from your Mac directory is necessary before using the "Sync" option).*  
 - **Download:** Will overwrite the whole directory with the content of the server (Redownload all files).  
   
