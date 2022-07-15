@@ -35,5 +35,10 @@ If you have a lot of files that need to be transferred, it may take some times. 
   
 # To download the app:
 
-Downloading and unzipping the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". A way around this, is to open the unzipped app using Automator and hit save. After, you can right-click on the app and click open. Make sure the iPad app is open.
+Downloading and unzipping the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". 
+<p align="center">  
+  <img src=".media/app-is-damage-message.png" alt="drawing" width="700"/>  
+</p>  
+
+A way around this, is to open the unzipped app using Automator and hit save. After, you can right-click on the app and click open.
 
