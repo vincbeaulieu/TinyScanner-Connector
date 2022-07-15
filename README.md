@@ -1,7 +1,7 @@
 
 # TinyScanner-Connector
 
-Application designed to dump previously scanned pdf from an old iPad iOS 9.3.5 having the Tiny Scanner+ v4.1.1 application. Since I've previously paid for that application in the pass, before they've decided to release the same application but with a monthly payment, I've decided to recycle my old iPad to scan PDF during the Covid pandemic. I've been doing it using a bash script, but I've decided to give it a refresh and make and actual MacOS application.  
+During the Covid pandemic, I've been using my old iPad to scan PDF with the Tiny Scanner+ v4.1.1 application that I bought a while back. I didn't want to buy the latest Tiny Scanner application since it requires a monthly payment. Therefore, I've designed this connector to quickly dump my scanned PDF's from my old iPad iOS 9.3.5 to my Mac.
   
 # Technicality  
 
