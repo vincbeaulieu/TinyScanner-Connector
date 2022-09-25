@@ -35,7 +35,7 @@ If you have a lot of files that need to be transferred, it may take some times. 
   
 # To download the app:
 
-Downloading and unzipping the TinyScanner.zip file may results in a message saying "App is damaged and can’t be opened. You should move it to the Trash". 
+Downloading and unzipping the TinyScanner.zip file may results in a message saying *"App is damaged and can’t be opened. You should move it to the Trash"*. 
 <p align="center">  
   <img src=".media/app-is-damage-message.png" alt="drawing" width="550"/>  
 </p>  
